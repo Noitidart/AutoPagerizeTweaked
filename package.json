@@ -1,0 +1,15 @@
+{
+  "title": "AutoPagerizeTweaked",
+  "name": "autopagerizetweaked",
+  "version": "0.9.17.4",
+  "description": "A customized version of the Autopagerize extension created by swdyh",
+  "main": "main.js",
+  "author": "John",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
